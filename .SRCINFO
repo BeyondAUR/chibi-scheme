@@ -1,11 +1,11 @@
 pkgbase = chibi-scheme
 	pkgdesc = Minimal R7RS scheme implementation for use as an extension language
 	pkgver = 0.10.0
-	pkgrel = 1
+	pkgrel = 2
 	url = http://synthcode.com/wiki/chibi-scheme
 	arch = x86_64
 	arch = i686
-	license = GPL
+	license = BSD-3-Clause
 	depends = bash
 	depends = glibc
 	source = http://synthcode.com/scheme/chibi/chibi-scheme-0.10.0.tgz
